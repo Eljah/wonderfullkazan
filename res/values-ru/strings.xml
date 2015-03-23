@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Удивительная Казань</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Вы здесь</string>
+
+</resources>
